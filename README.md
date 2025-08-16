@@ -1,6 +1,6 @@
 📚 Biblioteca Java
 
-+1 Projeto em Java focado em POO, manipulação de listas e operações de empréstimo, devolução e busca de livros, com simulação de recomendação LLM.
++1 Projeto pessoal em Java focado em POO, manipulação de listas e operações de empréstimo, devolução e busca de livros, com simulação de recomendação LLM.
 
 Funcionalidades
 
@@ -20,4 +20,5 @@ Coleções: List, ArrayList
 
 Autora
 Ellen N.
+(treinando o POO, Java)
 
